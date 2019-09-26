@@ -1,0 +1,25 @@
+.animation div {
+  height: 95vh;
+  /* width: 100px; */
+}
+#pink {
+  background-color: purple;
+}
+#yellow {
+  background-color: yellow;
+}
+#blue {
+  background-color: lightblue;
+}
+.db {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: pink;
+}
+.io {
+  /* padding-top: 10px; */
+  color: purple;
+  font-family: "Times New Roman", Times, serif;
+  letter-spacing: 2px;
+}
